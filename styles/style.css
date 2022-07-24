@@ -1,4 +1,7 @@
-.font-color{
+.font-color {
   color: blue;
   font-color: ;
+}
+.margin-toast {
+  margin-top: 35px;
 }
